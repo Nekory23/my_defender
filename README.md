@@ -1,6 +1,5 @@
 # my_defender
-
-{EPITECH} | First year | C Graphical Programming project
+# {EPITECH} | First year | C Graphical Programming project
 
 This project is a Tower Defense game. A Good example of this kind of games is Revenge of the titans
 Your main challenge for this game will be to create nice and smooth user interface and menus.
@@ -20,7 +19,9 @@ See the subject for further details !
 
 ========================
 
-2nd semester C Graphical programming unit
+## 2nd semester C Graphical programming unit
+
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Grade : B
 
@@ -54,7 +55,5 @@ Mark: 51
 - Skill Tree (0 / 15) :
 - Other Extra features (0 / 10) :
 - Coherent sizes (1 / 2) :
-
-Made with Quentin TREHEUX (LuciferBahamut)
 
 Beware of -42 epitech students !
